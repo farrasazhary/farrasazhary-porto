@@ -4,40 +4,40 @@ import ProjectCard from "./ProjectCard";
 const works = [
     {
       imgSrc: '/images/project-1.jpg',
-      title: 'Full stack music app',
-      tags: ['API', 'MVC', 'Development'],
-      projectLink: 'https://musify-5al0.onrender.com/'
+      title: 'Front end KYO website',
+      tags: ['Front-end'],
+      projectLink: 'https://kyo.co.id/'
     },
     {
       imgSrc: '/images/project-2.jpg',
-      title: 'Free stock photo app',
-      tags: ['API', 'SPA'],
-      projectLink: 'https://pixstock-official.vercel.app/'
+      title: 'Notes app',
+      tags: ['Development'],
+      projectLink: 'https://github.com/farrasazhary/note-apps'
     },
     {
       imgSrc: '/images/project-3.jpg',
-      title: 'Recipe app',
-      tags: ['Development', 'API'],
-      projectLink: ''
+      title: 'Rass Movie',
+      tags: ['Development'],
+      projectLink: 'https://github.com/farrasazhary/rass-movie'
     },
     {
       imgSrc: '/images/project-4.jpg',
-      title: 'Real state website',
+      title: 'Restaurant website with PWA',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee-org/wealthome'
+      projectLink: 'https://github.com/farrasazhary/RassRestaurant'
     },
-    {
-      imgSrc: '/images/project-5.jpg',
-      title: 'eCommerce website',
-      tags: ['eCommerce', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
-    },
-    {
-      imgSrc: '/images/project-6.jpg',
-      title: 'vCard Personal portfolio',
-      tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
-    },
+    // {
+    //   imgSrc: '/images/project-5.jpg',
+    //   title: 'eCommerce website',
+    //   tags: ['eCommerce', 'Development'],
+    //   projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+    // },
+    // {
+    //   imgSrc: '/images/project-6.jpg',
+    //   title: 'vCard Personal portfolio',
+    //   tags: ['Web-design', 'Development'],
+    //   projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+    // },
   ];
 
 const Work = () => {

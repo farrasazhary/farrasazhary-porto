@@ -26,24 +26,20 @@ const sitemap = [
 const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'https://www.github.com/farrasazhary'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
+      href: 'https://www.linkedin.com/in/muhamad-farras-azhary-26a110289/'
     },
     {
       label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
+      href: ''
     },
     {
       label: 'Instagram',
-      href: 'https://www.instagram.com/codewithsadee'
+      href: 'https://www.instagram.com/farras_azhary'
     },
-    {
-      label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
-    }
   ];
 
 
@@ -124,7 +120,7 @@ const Footer = () => {
                     />
                 </a>
                 <p className="text-zinc-500 text-sm reveal-up">
-                    &copy; 2024 <span className="text-zinc-200">farrasazhary</span>
+                    &copy; 2025 <span className="text-zinc-200">farrasazhary</span>
                 </p>
             </div>
 
